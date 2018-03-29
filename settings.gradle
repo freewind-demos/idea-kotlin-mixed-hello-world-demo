@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-mixed-hello-world-demo'
+
+include 'kotlin-mixed-hello-world-demo-jvm', 'kotlin-mixed-hello-world-demo-js'
